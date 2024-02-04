@@ -1,6 +1,6 @@
 ![logo](https://github.com/ZainEjaz24/Zain-Ejaz/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Zain Ejaz</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Zain+Ejaz;Good+to+See+You+There!)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer, Graphics Designer and Excel Expert from Pakistan</h3>
 <img align="right" alt="coding"  width="400" src= "https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=82a1493bmobfye255xnqdom88b2sd3fvtmd7dgdh77odk8ll&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 
