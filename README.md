@@ -1,6 +1,7 @@
 ![logo](https://github.com/ZainEjaz24/Zain-Ejaz/blob/main/Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Zain+Ejaz;Good+to+See+You+There!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&pause=100&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Zain+Ejaz;Good+to+see+you+there!" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate frontend developer, Graphics Designer and Excel Expert from Pakistan</h3>
 <img align="right" alt="coding"  width="400" src= "https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=82a1493bmobfye255xnqdom88b2sd3fvtmd7dgdh77odk8ll&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 
